@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Arjun Reddy/IdeaProjects/LearningSeleniumATB9x/src/test/java/com/arjunproject/ex48_Annotations">
+        <classes>
+            <class name="com.arjunproject.ex48_Annotations.C1"> </class>
+
+        </classes>
+    </test>
+</suite>
